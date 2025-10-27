@@ -68,7 +68,7 @@ Datasets:
 1. **Clone Repository**
 
 ```bash
-git clone https://github.com/<your_username>/CoinSight.git
+git clone https://github.com/evilNami/CoinSight.git
 cd CoinSight
 ```
 
